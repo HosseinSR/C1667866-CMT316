@@ -1,6 +1,4 @@
-errno
 nltk
-urllib
 sklearn
 pandas
 numpy
